@@ -1,8 +1,12 @@
 # COVID-19 Case Data (San Bernardino)
 
-A Jupyter notebook exploring COVID-19 case data for San Bernardino County, California.
+A Jupyter notebook exploring COVID-19 case data for San Bernardino County, California. I was following the COVID-19 updates from the San Bernardino County updates via email and wanted to know if I could investigate the data myself too.
 
-##
+## What's in the Notebook?
+So far, I have quick graphs of:
+* Total Cases Confirmed by day
+* New Cases per day
+* Suspected (Hospital) COVID patients per day
 
 ## Credits
 Data provided by California Health and Human Services Open Data Portal: [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics).
