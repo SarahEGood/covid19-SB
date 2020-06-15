@@ -8,6 +8,9 @@ So far, I have quick graphs of:
 * New Cases per day
 * Suspected (Hospital) COVID patients per day
 
+## How to View
+You can view and run the notebooks online [directly on Github](https://github.com/SarahEGood/covid19-SB/blob/master/San_Bernardino_COVID-19_Data.ipynb) or pull from this repo.
+
 ## Credits
 Data provided by California Health and Human Services Open Data Portal: [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics).
 County Event information pulled from [San Bernardino County Wire](https://wp.sbcounty.gov/cao/countywire/).
